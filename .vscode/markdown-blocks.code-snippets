@@ -79,5 +79,16 @@
 		"|-----------|-------------|"
 	],
 	"description": "Table header for params"
+	},
+	"Metadata": {
+	"scope": "",
+	"prefix": "meta",
+	"body": [
+		"author:"
+		"so.date:"
+		"keywords:"
+		"so.topic: reference"
+	],
+	"description": "Insert metadata fields"
 	}
 }
